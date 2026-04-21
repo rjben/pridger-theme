@@ -13,13 +13,13 @@ A **dark theme for VS Code** designed for developers who want **vibrant syntax h
 
 ## 📸 Screenshots
 ### TypeScript Example
-![TypeScript Screenshot](images/typescript.png)
+![TypeScript Screenshot](https://github.com/rjben/pridger-theme/raw/main/images/typescript.png)
 
 ### SQL Example
-![SQL Screenshot](images/sql.png)
+![SQL Screenshot](https://github.com/rjben/pridger-theme/blob/main/images/sql.png)
 
 ### Zenstack model
-![ZenStack Screenshot](images/zen-stack.png)
+![ZenStack Screenshot](https://github.com/rjben/pridger-theme/blob/main/images/zen-stack.png)
 
 
 ## 🚀 Installation

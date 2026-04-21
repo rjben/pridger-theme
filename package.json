@@ -2,10 +2,14 @@
   "name": "pridger-theme",
   "displayName": "Pridger Theme",
   "publisher": "Pridger-Theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjben/pridger-theme"
   },
   "contributes": {
     "themes": [
