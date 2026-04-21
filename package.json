@@ -1,0 +1,27 @@
+{
+  "name": "pridger-theme",
+  "displayName": "Pridger Theme",
+  "publisher": "Pridger-Theme",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pridger Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "dark theme",
+    "typescript theme",
+    "python theme",
+    "rust theme",
+    "javascript theme",
+    "developer productivity"
+  ]
+}
